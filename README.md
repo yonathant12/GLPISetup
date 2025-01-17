@@ -10,6 +10,7 @@ In this project, I implemented and managed GPLI, an IT service management tool, 
 - <b>VMware Workstation 17 Pro</b>
 - <b>Windows Server 2019</b>
 - <b>Wampserver</b>
+- <b>GLPI</b>
 
 
 <h2>Lab walk-through:</h2>
