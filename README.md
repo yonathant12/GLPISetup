@@ -1,7 +1,7 @@
 <h1>GLPI Setup</h1>
 
 <h2>Overview</h2>
-
+In this project, I implemented and managed GPLI, an IT service management tool, to transform ticketing and support operations. The primary goal was to enhance the efficiency, reliability, and responsiveness of the IT support team while improving the overall user experience. Additionally, this initiative provided valuable insights into the functionality and optimization of ticketing systems, deepening my understanding of their operation.
 <br />
 
 
