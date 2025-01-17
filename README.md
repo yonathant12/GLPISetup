@@ -14,7 +14,7 @@ In this project, I implemented and managed GPLI, an IT service management tool, 
 
 <h2>Lab walk-through:</h2>
 
-<p align="center">
+<p align="left">
 Download WampServer<br/>
 <img src="https://i.imgur.com/rph9Qit.png" height="60%" width="60%"/>
 <br />
